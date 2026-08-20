@@ -7,3 +7,9 @@ walkthrough-erp-web.webm
 backend_ssh_err.log
 dist/
 node_modules/
+
+# certificados digitais - NUNCA versionar
+*.pfx
+*.p12
+*.key
+*.pem
