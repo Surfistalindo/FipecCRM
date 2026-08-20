@@ -1,0 +1,9 @@
+.vercel
+.env*
+
+# scripts/artefatos de recuperacao (nao fazem parte do app)
+recover-vercel-source.ps1
+walkthrough-erp-web.webm
+backend_ssh_err.log
+dist/
+node_modules/
